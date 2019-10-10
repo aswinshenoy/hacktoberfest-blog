@@ -11,5 +11,5 @@ Join Hacktoberfest meetup hosted by amFOSS on 9th and 10th of October and don't 
 
 #HACKTOBER FEST 2019 EXPERIENCE
 -------
-It was fun and very exciting at the same very knowledgable for us . This fest gave a an idea about how to contribute in open source .
+It was fun and very exciting .The fest was very knowledgable for us ,it helped us to get an idea about how to contribute in open source .
 :DDDDD
