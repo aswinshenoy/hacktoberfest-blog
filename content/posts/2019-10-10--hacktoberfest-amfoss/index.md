@@ -1,6 +1,6 @@
 ---
 title: My Experience at Hacktoberfest
-cover: logo.png
+cover: pic.jpg
 category: "Hacktoberfest"
 author: Anuttan
 ---
