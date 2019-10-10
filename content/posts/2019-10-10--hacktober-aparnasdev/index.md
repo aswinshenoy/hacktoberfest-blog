@@ -1,6 +1,6 @@
 ---
 title: My Experience on Hacktober
-cover: logo.png
+cover: image.png
 category: "Hacktoberfest"
 author: aparnasdev
 ---
