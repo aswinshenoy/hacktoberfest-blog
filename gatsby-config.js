@@ -57,16 +57,6 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
-        queries,
-        chunkSize: 10000 // default: 1000
-      }
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
@@ -78,13 +68,6 @@ module.exports = {
       options: {
         path: `${__dirname}/content/posts/`,
         name: "posts"
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/pages/`,
-        name: "pages"
       }
     },
     {
@@ -191,12 +174,6 @@ module.exports = {
       }
     },
     `gatsby-plugin-offline`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID
-      }
-    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
