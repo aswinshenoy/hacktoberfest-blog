@@ -1,9 +1,8 @@
 ---
-title: Hacktoberfest at Amrita
+title: raptors experience at hacktoberfest
 cover: logo.png
 category: "Hacktoberfest"
 author: blutheraptor
 ---
 
-Hacktoberfest is an annual event hosted by DigitalOcean and DEV.to promoting and supporting Open Source collaboration. It's all about encouraging meaningful contributions to open source.
-Join Hacktoberfest meetup hosted by amFOSS on 9th and 10th of October and don't miss this oppurtunity to get a limited edition T-shirt!
+Hacktober fest is an opensource event hosted by amFOSS at amrita . This is really amazing and im enjoying it a lot.Im finding this really helpful, especially for a noob like me, who has no idea what coding is whatsoever.
