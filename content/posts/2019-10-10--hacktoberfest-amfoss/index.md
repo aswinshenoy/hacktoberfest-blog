@@ -1,6 +1,6 @@
 ---
 title: Hacktoberfest amFOSS
-cover: logo.png
+cover: Hacktober.JPG
 category: "Hacktoberfest"
 author: amfoss
 ---
