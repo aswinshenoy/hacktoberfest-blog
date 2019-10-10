@@ -73,7 +73,7 @@ class Header extends React.Component {
             justify-content: center;
             background-color: ${theme.color.neutral.white};
             display: flex;
-            height: ${theme.header.height.default};
+            height: ${theme.header.heightdefault};
             position: relative;
             top: 0;
             width: 100%;
