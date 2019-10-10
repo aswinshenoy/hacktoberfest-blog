@@ -1,0 +1,8 @@
+title : hacktoberblog
+cover :image1.jpg
+category :hacktoberfest
+author :abhinav
+
+hacktoberfest is based on open source 
+hosted by amfoss on 9th and 10th of october
+which provides more information about opensource and its uses 
