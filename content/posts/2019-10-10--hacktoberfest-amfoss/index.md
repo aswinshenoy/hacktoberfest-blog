@@ -1,5 +1,5 @@
 ---
-title: Hacktoberfest amFOSS
+title: HacktoberFest By Dev And Digital Ocean
 cover: Hacktober.JPG
 category: "Hacktoberfest"
 author: amfoss
