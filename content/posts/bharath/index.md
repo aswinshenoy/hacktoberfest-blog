@@ -1,8 +1,8 @@
 ---
 title: my blog
-cover: logo.png
+cover: index.png
 category: "Hacktoberfest"
-author: Bharath Pratha[p
+author: Bharath Prathap
 ---
 
 Hacktober fest is really cool , giving students exposure in computer science field and getting into the sea of git .
