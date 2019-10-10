@@ -2,8 +2,7 @@
 title: Hacktoberfest amFOSS
 cover: logo.png
 category: "Hacktoberfest"
-author: amfoss
+author: satwik
 ---
 
-Hacktoberfest is an annual event hosted by DigitalOcean and DEV.to promoting and supporting Open Source collaboration. It's all about encouraging meaningful contributions to open source.
-Join Hacktoberfest meetup hosted by amFOSS on 9th and 10th of October and don't miss this oppurtunity to get a limited edition T-shirt!
+this helped me a lot to know about github and the volunteers helping us and we are able to do everything what they said and it so nice to work with this event it was so helpful to me  so it is very useful
