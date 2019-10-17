@@ -1,8 +1,8 @@
 ---
 title: My Experience on Hacktoberfest
 cover: hackpack.jpg
-author: Manikishan
+author: susilkessav
 category: "Hacktoberfest"
 ---
 
-I am Manikishan a third year undergraduate and a member of amfoss. 
+I am susilkessav a third year undergraduate .it was cool and awesome
