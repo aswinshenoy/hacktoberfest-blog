@@ -1,2 +1,2 @@
 # hacktoberfest-blog
-as part of task completion Hacktober Fest 2019.
+As part of task completion for Hacktober Fest 2019.
